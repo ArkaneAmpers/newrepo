@@ -1,0 +1,14 @@
+$Recycle.Bin/
+$SysReset/
+$WINDOWS.~BT/
+DumpStack.log.tmp
+Program Files (x86)/
+Program Files/
+ProgramData/
+Recovery/
+System.sav
+Windows.old/
+Windows/
+hiberfil.sys
+pagefile.sys
+swapfile.sys
